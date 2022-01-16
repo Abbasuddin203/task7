@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Header{
+    background-color: black;
+    width: 100%;
+    float: left;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.logo-part{
+    width: 33.33%;
+    background-color: black;
+    float: left;
+}
+.menu-part{
+    width: 33.33%;
+    background-color:black;
+    float: left;
+}
+ul li{
+    display: inline-block;
+    margin: 16.8px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+.search-part{
+    width: 33.33%;
+    background-color: black;
+    float: left;
+    font-size: large;
+}
+
+/*hero-part*/
+#hero{
+    float: left;
+    width: 100%;
+    background-color: grey;
+}
+.main-part{
+    float: left;
+    width: 50%;
+}
+
+.img-part{
+    float: left;
+    width: 50%;
+    
+}
